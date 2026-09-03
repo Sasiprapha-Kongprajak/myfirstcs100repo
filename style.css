@@ -17,6 +17,11 @@ body {
 }
 
 .photo img {
-    width: 620px;
+    width: 320px;
+    margin: 40px auto 0 auto;
+}
+
+.info {
+    width: 320px;
     margin: 40px auto 0 auto;
 }
